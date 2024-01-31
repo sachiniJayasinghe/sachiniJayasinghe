@@ -12,6 +12,7 @@
     </td>
   </tr>
   <tr>
+  </table>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sachinijayasinghe" /> </p>
 
