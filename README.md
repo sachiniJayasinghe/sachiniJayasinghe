@@ -1,5 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sachini Madushika</h1>
 
+<table border="0">
+
+  <tr>
+    <td><p><img src="https://github.com/sachiniJayasinghe/sachiniJayasinghe/assets/139870219/e7881ce9-bd90-46a9-8f8c-779929172a8c" style="width:200px;"></p></td>
+    <td>      
+       :man_student: I'm a student at IJSE-Institute of Software Engineering <br><br>
+       :mortar_board: I’m currently following A Bachelor of Science in Software Engineering <br><br>
+       :school: Athuraliya Central collage. <br><br>
+       :e-mail: Email / gunasekarasachini2003@gmail.com  <br><br>   
+    </td>
+  </tr>
+  <tr>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinijayasinghe&label=Profile%20views&color=0e75b6&style=flat" alt="sachinijayasinghe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachinijayasinghe" alt="sachinijayasinghe" /></a> </p>
